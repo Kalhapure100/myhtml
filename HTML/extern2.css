@@ -1,0 +1,37 @@
+
+h2{
+    color: pink;
+}
+p
+{
+    color:blueviolet;
+    background-color: azure;
+}
+.container{
+    color: brown;
+    background-color: aqua;
+    border: 30px;
+    border-radius: 41px;
+    font-size: 30px;
+    width: 50px;
+}
+.address-container{
+    color: #a129a1;
+    background-color: blanchedalmond;
+    font-size: 30px;
+    width: 161px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 41px;
+}
+.h1{
+    color: #0e1f19;
+    width: 140px;
+    background-color: #c29760;
+    padding: 6px;
+    border-radius: 41px;
+}
+.hi{
+    color:hotpink;
+    background-color: azure;
+}

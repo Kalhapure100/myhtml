@@ -1,0 +1,44 @@
+
+
+
+
+
+
+div p{
+    background-color: aqua;
+}
+span>h1{
+    background-color: aqua;
+}
+h4~h2{
+    background-color: brown;
+}/*
+*{
+    color: brown;
+    background-color:azure;
+}*/
+div h2:hover{
+    background-color: blue;
+}
+p:hover{
+    background-color: aquamarine;
+}
+a:active{
+    color: blueviolet;
+}
+p::first-letter{
+    font-size: 100px;
+    color:brown;
+    text-transform: uppercase;
+    
+
+    
+}
+h4::first-line{
+    font-size: 50px;
+    color:rgb(42, 165, 147);
+}
+h6::selection{
+    background-color: yellow;
+    color:brown;
+}
